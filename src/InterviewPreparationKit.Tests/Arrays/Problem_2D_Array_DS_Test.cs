@@ -1,4 +1,4 @@
-namespace HackerRankSolutions.InterviewPreparationKit.Tests
+namespace HackerRankSolutions.InterviewPreparationKit.Arrays.Tests
 {
     using NUnit.Framework;
     using HackerRankSolutions.TestUtils;
