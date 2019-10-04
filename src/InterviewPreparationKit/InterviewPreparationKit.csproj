@@ -49,6 +49,7 @@
     <Compile Include="Arrays\Problem_2D_Array_DS.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WarmupChallenges\Problem_Sock_Merchant.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\.editorconfig">
